@@ -1,2 +1,2 @@
-# SCALA_FunctionalSets
+# SCALA Functional Sets
 Functional sets
